@@ -1,0 +1,8 @@
+notebook
+transformers
+datasets
+peft
+accelerate
+torch
+torchvision
+torchaudio
